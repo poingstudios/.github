@@ -9,7 +9,7 @@
 
 ---
 
-**Poing Studios is an open-source organization dedicated to building high-quality plugins, tools, and integrations for game developers—making it easier to monetize, analyze, and scale games.**
+**Poing Studios is an open-source organization dedicated to building high-quality plugins, tools, and integrations for game developers.**
 
 ## Featured Projects
 
