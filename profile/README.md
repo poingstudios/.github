@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/poingstudios/.github/main/images/0497-0856_transparent_60fps_v7.webp" alt="Poing Studios Logo" width="600" />
+  <img src="https://raw.githubusercontent.com/poingstudios/.github/master/images/0497-0856_transparent_60fps_v7.webp" alt="Poing Studios Logo" width="600" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 **Poing Studios is an open-source organization dedicated to building high-quality plugins, tools, and integrations for game developers—making it easier to monetize, analyze, and scale games.**
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [Godot AdMob Plugin](https://github.com/poingstudios/godot-admob-plugin)
 Complete AdMob (Google Mobile Ads SDK) plugin for Godot. Supports GDScript and C#.
