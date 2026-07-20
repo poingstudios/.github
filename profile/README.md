@@ -19,7 +19,7 @@ Complete AdMob (Google Mobile Ads SDK) plugin for Godot. Supports GDScript and C
 
 [![Stars](https://flat.badgen.net/github/stars/poingstudios/godot-admob-plugin?icon=github)](https://github.com/poingstudios/godot-admob-plugin/stargazers)
 [![Release](https://flat.badgen.net/github/release/poingstudios/godot-admob-plugin/latest?icon=github)](https://github.com/poingstudios/godot-admob-plugin/releases)
-[![License](https://badgen.net/github/license/poingstudios/godot-admob-plugin?label=License)](https://github.com/poingstudios/godot-admob-plugin/blob/master/LICENSE)
+[![License](https://badgen.net/github/license/poingstudios/godot-admob-plugin)](https://github.com/poingstudios/godot-admob-plugin/blob/master/LICENSE)
 
 ---
 
