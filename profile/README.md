@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://poingstudios.com/"><img src="https://flat.badgen.net/badge/website/poingstudios.com/blue?icon=chrome" alt="Website" /></a>
   <a href="https://discord.com/invite/AVspeM3q3G"><img src="https://flat.badgen.net/badge/discord/online/purple?icon=discord" alt="Discord" /></a>
+  <a href="https://patreon.com/poingstudios"><img src="https://flat.badgen.net/badge/Support%20us%20on/Patreon/orange?icon=patreon" alt="Patreon" /></a>
 </p>
 
 ---
