@@ -23,11 +23,11 @@ Complete AdMob (Google Mobile Ads SDK) plugin for Godot. Supports GDScript and C
 
 ---
 
-### [DotShell](https://github.com/poingstudios/dotshell)
+### [Godot Terminal](https://github.com/poingstudios/godot-terminal)
 The ultimate built-in shell for Godot. Bring the power of the command line directly into your editor's bottom panel.
 
-[![Stars](https://flat.badgen.net/github/stars/poingstudios/dotshell?icon=github)](https://github.com/poingstudios/dotshell/stargazers)
-[![License](https://flat.badgen.net/github/license/poingstudios/dotshell)](https://github.com/poingstudios/dotshell/blob/main/LICENSE)
+[![Stars](https://flat.badgen.net/github/stars/poingstudios/godot-terminal?icon=github)](https://github.com/poingstudios/godot-terminal/stargazers)
+[![License](https://flat.badgen.net/github/license/poingstudios/godot-terminal)](https://github.com/poingstudios/godot-terminal/blob/main/LICENSE)
 
 ---
 
