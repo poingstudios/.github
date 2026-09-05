@@ -27,7 +27,26 @@ Complete AdMob (Google Mobile Ads SDK) plugin for Godot. Supports GDScript and C
 The ultimate built-in shell for Godot. Bring the power of the command line directly into your editor's bottom panel.
 
 [![Stars](https://flat.badgen.net/github/stars/poingstudios/godot-terminal?icon=github)](https://github.com/poingstudios/godot-terminal/stargazers)
-[![License](https://flat.badgen.net/github/license/poingstudios/godot-terminal)](https://github.com/poingstudios/godot-terminal/blob/main/LICENSE)
+[![Release](https://flat.badgen.net/github/release/poingstudios/godot-terminal/latest?icon=github)](https://github.com/poingstudios/godot-terminal/releases)
+[![License](https://flat.badgen.net/github/license/poingstudios/godot-terminal)](https://github.com/poingstudios/godot-terminal/blob/master/LICENSE)
+
+---
+
+### [Godot FMOD](https://github.com/poingstudios/godot-fmod)
+Official-grade, pure C++ GDExtension plugin for Godot 4.x providing direct, high-performance bindings to the FMOD Studio and FMOD Core APIs.
+
+[![Stars](https://flat.badgen.net/github/stars/poingstudios/godot-fmod?icon=github)](https://github.com/poingstudios/godot-fmod/stargazers)
+[![Release](https://flat.badgen.net/github/release/poingstudios/godot-fmod/latest?icon=github)](https://github.com/poingstudios/godot-fmod/releases)
+[![License](https://flat.badgen.net/github/license/poingstudios/godot-fmod)](https://github.com/poingstudios/godot-fmod/blob/master/LICENSE)
+
+---
+
+### [Poing AI](https://github.com/poingstudios/poing-ai)
+AI-powered code review, issue triage, and multi-platform dependency automation for game development and native code.
+
+[![Stars](https://flat.badgen.net/github/stars/poingstudios/poing-ai?icon=github)](https://github.com/poingstudios/poing-ai/stargazers)
+[![Release](https://flat.badgen.net/github/release/poingstudios/poing-ai/latest?icon=github)](https://github.com/poingstudios/poing-ai/releases)
+[![License](https://flat.badgen.net/github/license/poingstudios/poing-ai)](https://github.com/poingstudios/poing-ai/blob/master/LICENSE)
 
 ---
 
