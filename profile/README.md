@@ -19,7 +19,7 @@
 <table>
   <tr>
     <td colspan="2" valign="top">
-      <h3><a href="https://github.com/poingstudios/godot-admob-plugin">📱 Godot AdMob Plugin</a></h3>
+      <h3><a href="https://github.com/poingstudios/godot-admob-plugin">Godot AdMob Plugin</a></h3>
       <p>Complete Google Mobile Ads SDK integration for Godot Engine. Supports GDScript and C# with banner, interstitial, and rewarded ad mediation across Android and iOS.</p>
       <p>
         <a href="https://github.com/poingstudios/godot-admob-plugin/stargazers"><img src="https://flat.badgen.net/github/stars/poingstudios/godot-admob-plugin?icon=github" alt="Stars" /></a>
@@ -30,7 +30,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/poingstudios/godot-terminal">💻 Godot Terminal</a></h3>
+      <h3><a href="https://github.com/poingstudios/godot-terminal">Godot Terminal</a></h3>
       <p>In-editor shell terminal for Godot. Brings the command line directly into the editor's bottom dock panel.</p>
       <p>
         <a href="https://github.com/poingstudios/godot-terminal/stargazers"><img src="https://flat.badgen.net/github/stars/poingstudios/godot-terminal?icon=github" alt="Stars" /></a>
@@ -39,7 +39,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/poingstudios/godot-fmod">🔊 Godot FMOD</a></h3>
+      <h3><a href="https://github.com/poingstudios/godot-fmod">Godot FMOD</a></h3>
       <p>Pure C++ GDExtension plugin for Godot 4.x providing direct bindings to the FMOD Studio and FMOD Core APIs.</p>
       <p>
         <a href="https://github.com/poingstudios/godot-fmod/stargazers"><img src="https://flat.badgen.net/github/stars/poingstudios/godot-fmod?icon=github" alt="Stars" /></a>
