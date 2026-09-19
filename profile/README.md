@@ -50,12 +50,3 @@
   </tr>
 </table>
 
----
-
-## Community & Contributing
-
-We welcome contributors of all experience levels. Whether reporting bugs, proposing features, or submitting pull requests, your help improves tools for the Godot community.
-
-* **Discord:** Chat with us and other developers in our [Discord Community](https://discord.com/invite/AVspeM3q3G).
-* **Support:** Help fund development and maintenance via [Patreon](https://patreon.com/poingstudios).
-* **Website:** Learn more at [poingstudios.com](https://poingstudios.com/).
