@@ -18,13 +18,22 @@
 
 <table>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/poingstudios/godot-admob-plugin">Godot AdMob Plugin</a></h3>
       <p>Complete Google Mobile Ads SDK integration for Godot Engine. Supports GDScript and C# with banner, interstitial, and rewarded ad mediation across Android and iOS.</p>
       <p>
         <a href="https://github.com/poingstudios/godot-admob-plugin/stargazers"><img src="https://flat.badgen.net/github/stars/poingstudios/godot-admob-plugin?icon=github" alt="Stars" /></a>
         <a href="https://github.com/poingstudios/godot-admob-plugin/releases"><img src="https://flat.badgen.net/github/release/poingstudios/godot-admob-plugin/latest?icon=github" alt="Release" /></a>
         <a href="https://github.com/poingstudios/godot-admob-plugin/blob/main/LICENSE"><img src="https://flat.badgen.net/github/license/poingstudios/godot-admob-plugin" alt="License" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/poingstudios/dialog-sharp">Dialog Sharp</a></h3>
+      <p>Modular dialogue system for Godot in C# featuring branching conversation trees, customizable UI, and character profile portraits.</p>
+      <p>
+        <a href="https://github.com/poingstudios/dialog-sharp/stargazers"><img src="https://flat.badgen.net/github/stars/poingstudios/dialog-sharp?icon=github" alt="Stars" /></a>
+        <a href="https://github.com/poingstudios/dialog-sharp/releases"><img src="https://flat.badgen.net/github/release/poingstudios/dialog-sharp/latest?icon=github" alt="Release" /></a>
+        <a href="https://github.com/poingstudios/dialog-sharp/blob/main/LICENSE"><img src="https://flat.badgen.net/github/license/poingstudios/dialog-sharp" alt="License" /></a>
       </p>
     </td>
   </tr>
@@ -48,5 +57,22 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/poingstudios/godot-swift-plugin">Godot Swift Plugin</a></h3>
+      <p>Framework and build tooling for developing native Godot GDExtension plugins in pure Swift for iOS and macOS.</p>
+      <p>
+        <a href="https://github.com/poingstudios/godot-swift-plugin/stargazers"><img src="https://flat.badgen.net/github/stars/poingstudios/godot-swift-plugin?icon=github" alt="Stars" /></a>
+        <a href="https://github.com/poingstudios/godot-swift-plugin/blob/master/LICENSE"><img src="https://flat.badgen.net/github/license/poingstudios/godot-swift-plugin" alt="License" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/poingstudios/godot-att-ios">Godot ATT iOS</a></h3>
+      <p>App Tracking Transparency framework for Godot on iOS. Manages tracking authorization requests with zero C++ overhead.</p>
+      <p>
+        <a href="https://github.com/poingstudios/godot-att-ios/stargazers"><img src="https://flat.badgen.net/github/stars/poingstudios/godot-att-ios?icon=github" alt="Stars" /></a>
+        <a href="https://github.com/poingstudios/godot-att-ios/blob/master/LICENSE"><img src="https://flat.badgen.net/github/license/poingstudios/godot-att-ios" alt="License" /></a>
+      </p>
+    </td>
+  </tr>
 </table>
-
